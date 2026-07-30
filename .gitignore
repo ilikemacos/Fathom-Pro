@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+.derived/
+dist/staging/
+**/xcuserdata/
+.idea/

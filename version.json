@@ -1,0 +1,19 @@
+{
+  "latest": "v0.1.0-Pro-Beta",
+  "pro": "v0.1.0-Pro-Beta",
+  "releases": {
+    "pro": {
+      "label": "v0.1.0 Pro Beta",
+      "short": "0.1.0",
+      "sh": "install-fathom-pro.sh",
+      "zip": "FathomPro-v0.1.0-Pro-Beta.zip"
+    }
+  },
+  "github": "https://github.com/ilikemacos/Fathom-Pro",
+  "notes": "Fathom Pro: Fathom + weather + multi-provider AI. Unlock via vault random oi-pl keys or homepage scavenger.",
+  "unlock": {
+    "prefix": "oi-pl",
+    "method": "vault-random-or-site-scavenger",
+    "hint": "Vault generate, or homepage first L in Small."
+  }
+}
