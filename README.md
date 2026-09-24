@@ -17,10 +17,11 @@ Requires **macOS 14+**.
 
 ## Unlock
 
-Fathom Pro uses a client-side unlock key (`oi-pl-…`):
-
-1. **Vault** on chopstickshq.com (password-gated) — generate a **random** key, or  
-2. **Scavenger** — homepage headline “Small lab.” click the first **L** after the A in “Small”.
+Fathom Pro requires a paid $2 license now
+1. **Pay for it here at** https://chopstickshq.com/fathom-pro/#unlock
+2. Then put your username and your license will be generated
+**NOTE**
+Fathom Pro licenses are not to be distrubuted and may only be used 3 times.
 
 Provider API keys (OpenAI etc.) are **yours**, stored in Keychain on this Mac. The unlock token is not a free cloud API key.
 
